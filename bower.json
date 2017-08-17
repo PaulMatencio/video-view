@@ -6,6 +6,9 @@
   "authors": [
     "Borja Godoy <borja.godoy.gago@gmail.com>"
   ],
+  "contributors": [
+    "Paul Matencio <paulo.matencio@gmail.com>"
+  ],
    "repository": {
     "type": "git",
     "url": "https://github.com/PaulMatencio/video-view"
